@@ -1,0 +1,12 @@
+Election Results
+-------------------
+Total number of votes: 3521001
+-------------------------------
+Khan wins: 63 percentage with 2218231 votes 
+Correy wins: 19 percentage with 704200 votes
+Li wins: 13 percentage with 492940 votes
+OTooley wins: 2 percentage with 105630 votes
+---------------------
+The Winner is: ('Khan', 63)
+
+-----------------------------------------------
